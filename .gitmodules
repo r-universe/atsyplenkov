@@ -5,3 +5,19 @@
 [submodule "centerline"]
 	path = centerline
 	url = https://github.com/atsyplenkov/centerline
+[submodule "raybevel"]
+	path = raybevel
+	url = https://github.com/tylermorganwall/raybevel
+	registered = false
+[submodule "rayimage"]
+	path = rayimage
+	url = https://github.com/tylermorganwall/rayimage
+	registered = false
+[submodule "rayrender"]
+	path = rayrender
+	url = https://github.com/tylermorganwall/rayrender
+	registered = false
+[submodule "rayvertex"]
+	path = rayvertex
+	url = https://github.com/tylermorganwall/rayvertex
+	registered = false
