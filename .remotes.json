@@ -1,5 +1,11 @@
 [
   {
+    "package": "pillar",
+    "url": "https://github.com/r-lib/pillar",
+    "via": ["centerline", "raybevel", "rayrender", "rayvertex"],
+    "from": "centerline"
+  },
+  {
     "package": "raybevel",
     "url": "https://github.com/tylermorganwall/raybevel",
     "via": ["centerline"],
@@ -18,8 +24,26 @@
     "from": "centerline"
   },
   {
+    "package": "rayshader",
+    "url": "https://github.com/tylermorganwall/rayshader",
+    "via": ["centerline", "raybevel", "rayrender"],
+    "from": "centerline"
+  },
+  {
     "package": "rayvertex",
     "url": "https://github.com/tylermorganwall/rayvertex",
+    "via": ["centerline", "raybevel", "rayrender"],
+    "from": "centerline"
+  },
+  {
+    "package": "rgl",
+    "url": "https://github.com/dmurdoch/rgl",
+    "via": ["centerline", "raybevel", "rayrender", "rayshader"],
+    "from": "centerline"
+  },
+  {
+    "package": "testthat",
+    "url": "https://github.com/tylermorganwall/testthat",
     "via": ["centerline", "raybevel", "rayrender"],
     "from": "centerline"
   }
