@@ -5,35 +5,3 @@
 [submodule "centerline"]
 	path = centerline
 	url = https://github.com/atsyplenkov/centerline
-[submodule "pillar"]
-	path = pillar
-	url = https://github.com/r-lib/pillar
-	registered = false
-[submodule "raybevel"]
-	path = raybevel
-	url = https://github.com/tylermorganwall/raybevel
-	registered = false
-[submodule "rayimage"]
-	path = rayimage
-	url = https://github.com/tylermorganwall/rayimage
-	registered = false
-[submodule "rayrender"]
-	path = rayrender
-	url = https://github.com/tylermorganwall/rayrender
-	registered = false
-[submodule "rayshader"]
-	path = rayshader
-	url = https://github.com/tylermorganwall/rayshader
-	registered = false
-[submodule "rayvertex"]
-	path = rayvertex
-	url = https://github.com/tylermorganwall/rayvertex
-	registered = false
-[submodule "rgl"]
-	path = rgl
-	url = https://github.com/dmurdoch/rgl
-	registered = false
-[submodule "testthat"]
-	path = testthat
-	url = https://github.com/tylermorganwall/testthat
-	registered = false
