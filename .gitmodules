@@ -5,3 +5,7 @@
 [submodule "centerline"]
 	path = centerline
 	url = https://github.com/atsyplenkov/centerline
+[submodule "sceua"]
+	path = sceua
+	url = https://github.com/atsyplenkov/sceua
+	subdir = r
